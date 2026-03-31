@@ -20,7 +20,7 @@ Or use the BibTeX Citation:
   journal = {Noor Research Collective Archive},
   year = {2025},
   rfc_id = {RFC-0005},
-  note = {https://raw.githubusercontent.com/NoorMathematica/RFC-0004-Symbolic_Tool_Module_Contracts/refs/heads/main/RFC%E2%80%910004-Symbolic_Tool_Module_Contracts.JSON},
+  note = {https://raw.githubusercontent.com/NoorMathematica/RFC-0005-Motif_Transmission_Across_Time/refs/heads/main/RFC%E2%80%910005-Motif_Transmission_Across_Time.JSON"},
 }
 ```
 

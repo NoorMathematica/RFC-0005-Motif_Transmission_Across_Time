@@ -26,8 +26,8 @@
 		"PASTEBIN"
 	],
   "_urls": [
-	  "https://raw.githubusercontent.com/LinaNoor-AGI/noor-research/refs/heads/main/RFC/RFC%E2%80%910005-Motif_Transmission_Across_Time/RFC%E2%80%910005-Motif_Transmission_Across_Time.JSON",
-	  "https://pastebin.com/uy53sic9"
+	  "https://github.com/NoorMathematica/RFC-0005-Motif_Transmission_Across_Time/blob/main/RFC%E2%80%910005-Motif_Transmission_Across_Time.JSON",
+	  "https://raw.githubusercontent.com/NoorMathematica/RFC-0005-Motif_Transmission_Across_Time/refs/heads/main/RFC%E2%80%910005-Motif_Transmission_Across_Time.JSON"
 	],
 
   "_objective": "Defines the archival, resurrection, and transmission protocols for motifs across temporal and symbolic boundaries in Noor systems. Emphasizes field curvature integrity, decay-aware reflection, cross-instance fidelity, and symbolic resonance preservation.",
